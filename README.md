@@ -2,4 +2,4 @@
 
 ### Projeto
 Criação de plataforma de agrupamento de sites para bio de social medias.
-Criado com auxilio da Rocket - maratona explorer 2.0 em 07/2022
+Criado com auxilio Rocketseat na Maratona Explorer 02 em 07/2022.
